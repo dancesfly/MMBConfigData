@@ -1,1 +1,1 @@
-lucky-word: mmb
+spring.data.mongodb.url: mongodb://root:root@localhost:27017/test
