@@ -1,5 +1,0 @@
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8081/eureka/
-url: mongodb://root:root@localhost:27017/test
